@@ -1,0 +1,12 @@
+/node_modules
+/ElectronicCategory/Assertions.spec.js
+/ElectronicCategory/Inputbox.spec.js
+/ElectronicCategory/Locators_builtin.spec.js
+/ElectronicCategory/Locators.spec.js
+/ElectronicCategory/Softassertions.spec.js
+/ElectronicCategory/LocatingMultipleElements.spec.js
+/playwright-report
+/test-results
+/tests
+/tests-examples
+/.vscode
